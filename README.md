@@ -6,7 +6,7 @@
 - 🧑‍🎓 Aluno da 18ª Edição do Programa Full Stack Web Developer na Growdev! 
 - 🌱 Engenheiro Agrônomo de formação! Experiência com perícias, projetos, vendas e relacionamento comercial! 
 - 😉 Entusiasta por novas tecnologias!
-- ❤️ Praticante e apaixonado por ciclimo!
+- ❤️ Praticante e apaixonado por ciclismo!
 - 🐈‍⬛ Gatequisado!
 
 #### 🔬 Acredito na ciência como transformadora da realidade social e na Educação como precursora da evolução humana!!!
