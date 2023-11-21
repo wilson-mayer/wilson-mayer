@@ -4,7 +4,7 @@
 
  ### Sobre mim: 
 - 🧑‍🎓 Aluno da 18ª Edição do Programa Full Stack Web Developer na Growdev! 
-- 🌱 Engenheiro Agrônomo de formação! Experiência com perícias, projetos, vendas e relacionamento comercial! 
+- 🌱 Engenheiro Agrônomo de formação! Experiência com perícias, projetos, consultoria e vendas! 
 - 😉 Entusiasta por novas tecnologias!
 - ❤️ Praticante e apaixonado por ciclismo!
 - 🐈‍⬛ Gatequisado!
